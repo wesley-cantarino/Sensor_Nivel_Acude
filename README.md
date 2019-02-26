@@ -137,6 +137,10 @@ Na prática ficou assim:
 * Costa :)
 <img src="https://user-images.githubusercontent.com/32984446/52630289-fa464680-2ea2-11e9-8ea8-41685cd07c62.jpeg" alt="" width="400"/>
 
+E colocando em uma caixinha tipo essa aqui:
+
+![](cad/caixinha_gif.gif)
+
 ### Código
 O código não tem segredo. É mandar:
 ```c++
