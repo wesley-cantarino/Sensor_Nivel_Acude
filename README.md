@@ -106,7 +106,6 @@ Obs: no caso desse conversor serial, tem que apertar o botão resete do arduino 
 
 Se tudo deu certo. O led da placa ficará piscando e imprimindo no monitor serial "I'm alive hahahaha  cont: " mais a variavel cont que vai se somando.
 
-<br><br><br><br><br><br>
 
 ## Como usar o relé?
 
@@ -139,7 +138,7 @@ Na prática ficou assim:
 
 E colocando em uma caixinha tipo essa aqui:
 
-![](cad/caixinha_gif.gif)
+![](https://github.com/wesley-cantarino/Sensor_Nivel_Acude/blob/master/cad/caixinha.gif)
 
 ### Código
 O código não tem segredo. É mandar:
